@@ -1,0 +1,65 @@
+@font-face
+{
+	src: url('../Montserrat-Bold.woff2');
+	font-family: montserrat;
+}
+@font-face
+{
+	src: url('../OpenSans-Regular.woff2');
+	font-family: opensan;
+}
+*{box-sizing: border-box; margin: 0; padding: 0;}
+.headerBackground{
+    background-image: url("../img/intro-bg.png");
+	background-size: cover;
+	background-position: bottom;
+	width: 100%;
+	min-height: 500px;
+    color: white;
+}
+
+/*	forms	*/
+#forms
+{
+	background: #9a8e8e;
+	color: #000;
+	padding: 50px 0;
+}
+form
+{
+	width: 900px;
+	margin: auto;
+}
+#forms fieldset{border: 0;}
+#forms legend{margin: auto;}
+#forms h1{font-size: 40px; text-transform: uppercase; color: #fff;}
+input[type=text], input[type=email], textarea
+{
+	background-color: transparent;
+	border: 0;
+	border-bottom: 2px solid black;
+	width:49%;
+	padding: 5px 10px;
+	font-size: 20px;
+}
+input[type=email]{width: 99%;}
+textarea{border-bottom: 1px solid black; width: 90%; font-size: 10px}
+input[type=submit]
+{
+	border: 1px solid black;
+	padding: 5px;
+	background-color: transparent;
+	margin: 5px 45%;
+}
+input[type=submit]:hover{background: rgba(200,200,200,0.8);}
+
+/*	forms	*/
+
+footer
+{
+	background: #1c1c1c;
+	color: #727272;
+	padding: 20px;
+	margin: auto;
+	text-align: center;
+}
