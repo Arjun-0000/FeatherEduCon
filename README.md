@@ -1,2 +1,0 @@
-# FeatherEduCon
-Website for Consultancy
