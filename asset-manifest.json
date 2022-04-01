@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/feathereducation/static/css/main.bb8dc104.chunk.css",
-    "main.js": "/feathereducation/static/js/main.18584987.chunk.js",
-    "main.js.map": "/feathereducation/static/js/main.18584987.chunk.js.map",
+    "main.js": "/feathereducation/static/js/main.a55e17cd.chunk.js",
+    "main.js.map": "/feathereducation/static/js/main.a55e17cd.chunk.js.map",
     "runtime-main.js": "/feathereducation/static/js/runtime-main.fd58720b.js",
     "runtime-main.js.map": "/feathereducation/static/js/runtime-main.fd58720b.js.map",
-    "static/js/2.3cd0da27.chunk.js": "/feathereducation/static/js/2.3cd0da27.chunk.js",
-    "static/js/2.3cd0da27.chunk.js.map": "/feathereducation/static/js/2.3cd0da27.chunk.js.map",
+    "static/js/2.5bae7e87.chunk.js": "/feathereducation/static/js/2.5bae7e87.chunk.js",
+    "static/js/2.5bae7e87.chunk.js.map": "/feathereducation/static/js/2.5bae7e87.chunk.js.map",
     "index.html": "/feathereducation/index.html",
     "static/css/main.bb8dc104.chunk.css.map": "/feathereducation/static/css/main.bb8dc104.chunk.css.map",
-    "static/js/2.3cd0da27.chunk.js.LICENSE.txt": "/feathereducation/static/js/2.3cd0da27.chunk.js.LICENSE.txt",
+    "static/js/2.5bae7e87.chunk.js.LICENSE.txt": "/feathereducation/static/js/2.5bae7e87.chunk.js.LICENSE.txt",
     "static/media/arjun.jpg": "/feathereducation/static/media/arjun.71d8290a.jpg",
     "static/media/avatar.jpg": "/feathereducation/static/media/avatar.21d108f8.jpg",
     "static/media/bg1.jpg": "/feathereducation/static/media/bg1.71a28027.jpg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fd58720b.js",
-    "static/js/2.3cd0da27.chunk.js",
+    "static/js/2.5bae7e87.chunk.js",
     "static/css/main.bb8dc104.chunk.css",
-    "static/js/main.18584987.chunk.js"
+    "static/js/main.a55e17cd.chunk.js"
   ]
 }
